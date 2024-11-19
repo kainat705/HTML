@@ -1,0 +1,16 @@
+.btn{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+}
+.btn:hover{
+    background-color: brown;
+    height: 100vh;
+    width: 200vh;
+}
+.btn:active{
+    background-color: aqua;
+}
+li:nth-of-type(2){
+    color: rgb(178, 15, 15);
+}

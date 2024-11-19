@@ -1,0 +1,26 @@
+#for x in(10):
+  #print (x)
+#for y in (10):
+ # print ("hello")
+
+
+x=10;
+y=30;
+print(x)
+print(y)
+x=y
+y=temp;
+print("x",x)
+print("y",y)
+
+#double sorting
+def bubblesort(arrray):
+  for 1 in range(len(array)):
+    for 2 in range(0,len(array)):
+#functions
+#bubble sort
+#homework home bil (calculate electricity using functions
+#variable scope
+#
+
+

@@ -1,0 +1,26 @@
+body{
+    height: 95vh;
+    display: grid;
+    grid-template-rows:auto 1fr ;
+    grid-gap: 10px;
+    color: black;
+    font-size: 2em;
+
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding: 2em;
+
+}
+main{
+    background-color:brown;
+    text-align: center;
+    padding: 2em;
+}
+footer{
+    background-color: bisque;
+    text-align: center;
+    padding: 2em;
+}
